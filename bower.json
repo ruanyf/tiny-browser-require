@@ -1,0 +1,13 @@
+{
+  "name": "tiny-browser-require",
+  "description": "A tiny, simple CommonJS require() implemetation in browser-side",
+  "version": "1.0.0",
+  "keywords": ["cjs", "commonjs", "module", "require"],
+  "main": "require.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "node.js"
+  ]
+}

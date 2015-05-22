@@ -1,0 +1,23 @@
+{
+  "name": "tiny-browser-require",
+  "version": "1.0.0",
+  "description": "browser-side CommonJS require() function",
+  "main": "require.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ruanyf/tiny-browser-require.git"
+  },
+  "keywords": [
+    "commonjs",
+    "module",
+    "require"
+  ],
+  "author": {
+    "name": "ruanyf",
+    "email": "yifeng.ruan@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanyf/tiny-browser-require/issues"
+  }
+}
